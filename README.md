@@ -2,6 +2,8 @@
 
 This project is a web application that allows users to search for books using the Google Books API. Users can view book details and save their favorite books.
 
+The deployed version of this application can be found here: https://googlebooks-app-kv.onrender.com/
+
 ## Features
 
 - Search for books by title, author, or ISBN
@@ -22,7 +24,7 @@ This project is a web application that allows users to search for books using th
 
 1. Clone the repository:
   ```sh
-  git clone https://github.com/yourusername/googlebooks-app.git
+  git clone https://github.com/kevinvongmany/googlebooks-app.git
   ```
 2. Navigate to the project directory:
   ```sh
@@ -53,4 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or suggestions, please contact [yourname@example.com](mailto:yourname@example.com).
+For any questions or suggestions, please contact [kevin.vongmany@gmail.com](mailto:kevin.vongmany@gmail.com).
